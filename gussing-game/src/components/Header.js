@@ -10,5 +10,4 @@ const Headers = ({ theme, toggleTheme }) => {
     </div>
   );
 };
-
 export default Headers;

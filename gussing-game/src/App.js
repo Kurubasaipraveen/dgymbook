@@ -19,7 +19,6 @@ function App() {
   useEffect(() => {
     setTargetWord(WORDS[Math.floor(Math.random() * WORDS.length)]);
   }, []);
-
   useEffect(() => {
     document.body.className = theme;
     localStorage.setItem("theme", theme);

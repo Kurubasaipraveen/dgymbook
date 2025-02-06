@@ -6,7 +6,6 @@ const Confetti = () => {
     script.innerHTML = 
       (() => {
         "use strict";
-
         const Utils = {
           parsePx: (value) => parseFloat(value.replace(/px/, "")),
           getRandomInRange: (min, max, precision = 0) => {

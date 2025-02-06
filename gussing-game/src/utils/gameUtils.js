@@ -28,7 +28,6 @@ export function getFeedback(guess, targetWord) {
 
   return result;
 }
-
 export function updateUsedKeys(feedback, usedKeys) {
   const newUsedKeys = { ...usedKeys };
   feedback.forEach(({ letter, status }) => {

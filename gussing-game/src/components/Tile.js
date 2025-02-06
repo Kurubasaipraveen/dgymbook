@@ -7,5 +7,4 @@ const Tittle = ({ letter, status }) => {
     </div>
   );
 };
-
 export default Tittle;

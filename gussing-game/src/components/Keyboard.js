@@ -7,7 +7,6 @@ function Keyboards({ usedKeys, onKeyPress }) {
     ['A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L'],
     ['Enter', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', 'Backspace']
   ];
-
   return (
     <div className="keyboard">
       {rows.map((row, i) => (
