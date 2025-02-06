@@ -68,3 +68,6 @@ Toggle between light/dark mode for better visibility.
 
 Screenshorts=>:
 ![Image](https://github.com/user-attachments/assets/0566e3bf-68b2-457a-bb99-4317eebb1f73)
+
+Correct word ANimation winning;
+![Video](https://github.com/Kurubasaipraveen/word-guessing-game/blob/main/Wordle%20Clone%20-%20Google%20Chrome%202025-02-06%2007-36-28.mp4)
